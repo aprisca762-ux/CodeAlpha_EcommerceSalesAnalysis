@@ -1,0 +1,21 @@
+Product,Category,Region,Quantity,Sales,Profit
+Laptop,Electronics,Lagos,2,1800,360
+Phone,Electronics,Abuja,3,2100,420
+Headphones,Electronics,Lagos,5,400,120
+Laptop,Electronics,Ibadan,1,1800,360
+Tablet,Electronics,Lagos,4,1400,280
+Keyboard,Accessories,Abuja,3,180,54
+Monitor,Electronics,Lagos,2,900,180
+Mouse,Accessories,Port Harcourt,6,120,36
+Phone,Electronics,Lagos,2,1400,280
+Laptop,Electronics,Abuja,1,950,190
+Tablet,Electronics,Ibadan,3,2100,420
+Headphones,Electronics,Lagos,4,320,96
+Monitor,Electronics,Port Harcourt,2,900,180
+Keyboard,Accessories,Lagos,5,220,66
+Mouse,Accessories,Abuja,7,240,72
+Laptop,Electronics,Lagos,2,1800,360
+Phone,Electronics,Ibadan,3,2100,420
+Tablet,Electronics,Lagos,2,700,140
+Monitor,Electronics,Abuja,4,900,180
+Headphones,Electronics,Lagos,5,400,120
